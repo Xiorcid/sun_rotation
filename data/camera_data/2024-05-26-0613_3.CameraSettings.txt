@@ -1,0 +1,75 @@
+[SVBONY SV705C]
+FrameType=Light
+#Дебайрезация
+Debayer Preview=On
+#Формат вывода
+Output Format=SER file (*.ser)
+#Цветовое пространство
+Colour Space=RAW8
+#Биннинг
+Binning=1
+#Разрешение
+Capture Area=2176x2180
+#Просмотр изображения
+Pan=840
+#Наклон
+Tilt=0
+#Уровень чёрного
+Black Level=0
+#Скорость USB
+USB Speed=1
+#Частота кадров
+Frame Rate Limit=Maximum
+#Усиление (Gain)
+Gain=0
+#Экспозиция
+Exposure=1,0270ms
+#Отметка времени
+Timestamp Frames=Off
+#Баланс белого (B)
+White Bal (B)=0
+#Баланс белого (G)
+White Bal (G)=511
+#Баланс белого (R)
+White Bal (R)=0
+#Ширина следа
+Trail Width=3
+#Минимальная длина следа
+Minimum Trail Length=100
+#Чувствительность обнаружения следов
+Trail Detection Sensitivity=9
+#Удалить спутниковые следы
+Remove Satellite Trails=Off
+#Выравнивание фона
+Background Subtraction=Off
+#Отслеживание дрейфа планет
+Planet/Disk Stabilization=Off
+#Степень сглаживания
+Banding Threshold=10
+#Сглаживание полос
+Banding Suppression=0
+#Разделить на Flat
+Apply Flat=None
+#Чувствительность горячих пикселей
+Hot Pixel Sensitivity=5
+#Вычесть Dark
+Subtract Dark=None
+#Отрицательный дисплей
+NegativeDisplay=0
+#Уровень черного
+Display Black Point=0
+#Среднее значение
+Display MidTone Point=0,5
+#Уровень белого
+Display White Point=1
+#Журнал
+Notes=
+TimeStamp=2024-05-26T06:13:19.8625949Z
+SharpCapVersion=4.0.9538.0
+StartCapture=2024-05-26T06:13:19.8493410Z
+MidCapture=2024-05-26T06:13:25.7583410Z
+EndCapture=2024-05-26T06:13:31.6670477Z
+Duration=11,818s
+FrameCount=500
+ActualFrameRate=42,3094fps
+TimeZone=+3,00
